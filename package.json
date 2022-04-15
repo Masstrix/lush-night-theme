@@ -1,0 +1,25 @@
+{
+    "name": "lush-night",
+    "displayName": "Lush Night",
+    "description": "A lush night colour theme to be easy on the eyes and clear to read.",
+    "version": "0.0.1",
+    "publisher": "Masstrix",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lush Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Lush-Night-color-theme.json"
+            }
+        ]
+    },
+	"__metadata": {
+		"publisherDisplayName": "Masstrix"
+	}
+}
