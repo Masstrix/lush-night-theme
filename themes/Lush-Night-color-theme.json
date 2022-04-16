@@ -1891,7 +1891,7 @@
 	  "titleBar.border": "#00000000",
 	  "menubar.selectionForeground": "#cccccc",
 	  "menubar.selectionBackground": "#ffffff1a",
-	  "menubar.selectionBorder": "#d3d3d3",
+	  "menubar.selectionBorder": "#ffffff1a",
 	  "menu.foreground": "#cccccc",
 	  "menu.background": "#50514a",
 	  "menu.selectionForeground": "#000000",
